@@ -1,7 +1,7 @@
 ## Hi I'm Hadeer Sherif 👋
  I graduated in 2020 from CIS mansoura university with very good with honor grade.
  My graduation project was A Pandemics Tracking System using Contact Tracing in Public Places.
- I got Pre_master at information technology department with very good grade 
+ I got premaster at information technology department with very good grade 
  
  #### software Engineer
 - Flutter developer
