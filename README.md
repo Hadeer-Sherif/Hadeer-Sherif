@@ -34,4 +34,5 @@
 <!-- | Top Langs | -->
 <!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadeer-Sherif&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/ualehosaini)| -->
 | streak |
-|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hadeer-Sherif&" alt="Hadeer-Sherif" /></p>| 
+|:------------:|
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hadeer-Sherif&" alt="Hadeer-Sherif" /></p> |
